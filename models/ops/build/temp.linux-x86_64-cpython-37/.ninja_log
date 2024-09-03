@@ -1,0 +1,4 @@
+# ninja log v5
+0	2906	1725286239676200411	/home/gwy/yanruxue/referformer/models/ops/build/temp.linux-x86_64-cpython-37/home/gwy/yanruxue/referformer/models/ops/src/cpu/ms_deform_attn_cpu.o	2901652d194c9c01
+1	9703	1725286246464200160	/home/gwy/yanruxue/referformer/models/ops/build/temp.linux-x86_64-cpython-37/home/gwy/yanruxue/referformer/models/ops/src/cuda/ms_deform_attn_cuda.o	60f92d5108fa7d50
+1	16444	1725286253204199909	/home/gwy/yanruxue/referformer/models/ops/build/temp.linux-x86_64-cpython-37/home/gwy/yanruxue/referformer/models/ops/src/vision.o	54ac95d835b5a51b
